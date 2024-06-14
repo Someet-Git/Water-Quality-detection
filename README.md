@@ -16,8 +16,9 @@ To run this project:
 **step 6:** You will get the quality of Water either Good, Bad or Very Bad.
 
 
-This is a Machine Learning project that I tried and along with that I made a website to see the result.
-We collected the Water quality from the Government of India website.
-Then train those using ML algorithms like Multi linear regression, logistic regreesion.
-It was based on Supervised Learning techniques as we were given the labelled data.
-We had to manually collect those data as we didn't find any api to collect them.
+- This is a Machine Learning project that I tried and along with that I made a website to see the result.
+- Water quality data was collected from the Government of India website.
+- Then train those using ML algorithms like Multi linear regression, logistic regreesion and Random Forest classifier.
+- With the help of R2_score and accuracy it was found that Random Forest classifier is the best for our use case. 
+- It was based on Supervised Learning techniques as we were given the labelled data.
+- We had to manually collect those data as we didn't find any api to collect them.
