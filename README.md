@@ -3,9 +3,9 @@ Uses Machine learning to detect the quality of Water using the values of dissolv
 To run this project:
 
 
-**step 1:** Create a virtual environment to install all the dependencies `pip3 install pip env`
+**step 1:** Create a virtual environment to separate your global enviornment `pip3 install pipenv`
 
-**step 2:** `pip3 install requirements`
+**step 2:** install all the required dependencies `pip3 install requirements.txt`
 
 **step 3:** To run the project use `python manage.py runserver`
 
