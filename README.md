@@ -1,7 +1,9 @@
 Uses Machine learning to detect the quality of Water using the values of dissolved oxygen(do) in water and pH of Water.
+Then deployed on Django web framework for visualization.
+Used HTML, CSS and Javascript for making the components od website.
+
 
 To run this project:
-
 
 **step 1:** Create a virtual environment to separate your global enviornment `pip3 install pipenv`
 
